@@ -1,0 +1,19 @@
+{
+  "name": "ex01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  },
+  "scripts": {
+    "test": "mocha ../../../../../tests/ex01.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
